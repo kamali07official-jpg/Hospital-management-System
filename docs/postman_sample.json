@@ -1,0 +1,10 @@
+{
+  "full_name": "Arun Kumar",
+  "age": 28,
+  "gender": "Male",
+  "email": "arun@example.com",
+  "phone": "9876543210",
+  "blood_group": "O+",
+  "disease": "Fever",
+  "admission_date": "2026-09-13"
+}
